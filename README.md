@@ -1,1 +1,1 @@
-"# demo" 
+Shopping Cart Demo
